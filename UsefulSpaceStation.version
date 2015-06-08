@@ -1,0 +1,35 @@
+{
+    "NAME"     : "Contract Pack: Useful Space Stations",
+    "URL"      : "https://github.com/severedsolo/UsefulSpaceStations/blob/master/UsefulSpaceStation.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/UsefulSpaceStations/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "UsefulSpaceStations"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 0,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
+    }
+}
